@@ -1,6 +1,6 @@
 # min-jumps
 
-Minimum jumps to reach the last index of an array (LeetCode-style problem).
+Minimum jumps to reach the last index of an array.
 
 Given an array where you can jump to index ±1 or to any index with the same value, return the minimum number of jumps to reach the last index. Return `-1` if unreachable.
 
